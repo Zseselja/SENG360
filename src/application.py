@@ -1,6 +1,6 @@
 #Assignment 1
 # Zachary Seselja
-# student # V00775627
+
 import sys
 import time
 
